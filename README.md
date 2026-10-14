@@ -48,6 +48,4 @@ java -cp out codebreaker.GameClient
 
 The client connects to `localhost:5555` by default. To play across machines, change `HOST` in `GameClient.java` to the server's IP address.
 
-## Author
 
-Norah ([@Norah-444](https://github.com/Norah-444))
